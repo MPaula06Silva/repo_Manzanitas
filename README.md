@@ -1,7 +1,7 @@
 # repo_Manzanitas
 
 
-##Integrantes
+## Integrantes
 
 -Juan Pablo Baez Mosquera -Lider
 
