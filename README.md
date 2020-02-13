@@ -14,3 +14,23 @@
 -Maria Paula Silva Manosalva -Diseñador
 
 -Diana Katherine Chacon Camargo -Programador
+
+
+## Titulo de proyecto
+
+### Descripcion
+
+### Diseño
+#### Esquema Electrico
+(Tarea Diseñador)
+####Prototipo
+-Breadboard(Tarea Diseñador)
+-Modelo 3D (Tarea Diseñador)
+####Planos de construccion
+(Tarea Diseñador)
+###Codigo de fuente
+-Enlace de codigo de fuente(Tarea Programador)
+###Evidencia de construccion
+(Tarea constructor)
+
+
