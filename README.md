@@ -21,20 +21,28 @@
 ### Descripcion
 
 ### Diseño
+
 #### Esquema Electrico
+
 (Tarea Diseñador)
 
-####Prototipo
+#### Prototipo
+
 -Breadboard(Tarea Diseñador)
+
 -Modelo 3D (Tarea Diseñador)
 
-####Planos de construccion
+#### Planos de construccion
+
 (Tarea Diseñador)
 
-###Codigo de fuente
+
+### Codigo de fuente
+
 -Enlace de codigo de fuente(Tarea Programador)
 
-###Evidencia de construccion
+### Evidencia de construccion
+
 (Tarea constructor)
 
 
