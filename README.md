@@ -46,3 +46,6 @@
 ![alt text](https://github.com/colegio-seminario-diocesano-de-duitama/repo_Manzanitas/blob/master/IMG-20200302-WA0014.jpg)
 
 
+![alt text](https://github.com/colegio-seminario-diocesano-de-duitama/repo_Manzanitas/blob/master/IMG-20200303-WA0023.jpg)
+
+![alt text](https://github.com/colegio-seminario-diocesano-de-duitama/repo_Manzanitas/blob/master/IMG-20200303-WA0022.jpg)
