@@ -21,6 +21,7 @@
 ### Descripcion
 
 ### Diseño
+![alt text](https://github.com/colegio-seminario-diocesano-de-duitama/repo_Manzanitas/blob/master/Untitled%20Sketch_esquem%C3%A1tico1.jpg)
 
 #### Esquema Electrico
 
