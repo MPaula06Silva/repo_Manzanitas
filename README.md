@@ -29,6 +29,7 @@
 #### Prototipo
 
 -Breadboard
+-PCB
 ![alt text](https://github.com/colegio-seminario-diocesano-de-duitama/repo_Manzanitas/blob/master/PCB1.jpg)
 
 -Modelo 3D (Tarea Diseñador)
