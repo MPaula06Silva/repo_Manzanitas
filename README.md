@@ -22,9 +22,12 @@
 
 ### Diseño
 
+
 #### Esquema Electrico
 
-(Tarea Diseñador)
+![alt text](https://github.com/colegio-seminario-diocesano-de-duitama/repo_Manzanitas/blob/master/Untitled%20Sketch_esquem%C3%A1tico1.jpg)
+![alt text](https://github.com/MPaula06Silva/repo_Manzanitas/blob/master/correccion.%20dannanumero2_pcb.jpg)
+![alt text](https://github.com/MPaula06Silva/repo_Manzanitas/blob/master/PROTO.jpg)
 
 #### Prototipo
 
@@ -43,6 +46,6 @@
 
 ### Evidencia de construccion
 
-![alt text](https://github.com/colegio-seminario-diocesano-de-duitama/repo_Manzanitas/blob/master/IMG-20200302-WA0014.jpg)
+(Tarea constructor)
 
 
