@@ -14,3 +14,4 @@
 -Maria Paula Silva Manosalva -Diseñador
 
 -Diana Katherine Chacon Camargo -Programador
+![alt text](https://github.com/MPaula06Silva/repo_Manzanitas/blob/master/PLACA%20PCB.jpg)
