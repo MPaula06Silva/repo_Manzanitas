@@ -43,6 +43,6 @@
 
 ### Evidencia de construccion
 
-(Tarea constructor)
+![alt text](https://github.com/colegio-seminario-diocesano-de-duitama/repo_Manzanitas/blob/master/IMG-20200302-WA0014.jpg)
 
 
